@@ -1,0 +1,7 @@
+#SPDX-License-Identifier: MIT-0
+---
+# defaults file for ec2
+ec2_instance_type: t3.micro
+ec2_region: eu-north-1
+ec2_ami_id: ami-0a716d3f3b16d290c
+
